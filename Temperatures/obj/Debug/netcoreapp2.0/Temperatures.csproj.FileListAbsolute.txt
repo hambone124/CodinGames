@@ -1,0 +1,10 @@
+D:\Documents\GitHub\CodinGames\Temperatures\bin\Debug\netcoreapp2.0\Temperatures.deps.json
+D:\Documents\GitHub\CodinGames\Temperatures\bin\Debug\netcoreapp2.0\Temperatures.runtimeconfig.json
+D:\Documents\GitHub\CodinGames\Temperatures\bin\Debug\netcoreapp2.0\Temperatures.runtimeconfig.dev.json
+D:\Documents\GitHub\CodinGames\Temperatures\bin\Debug\netcoreapp2.0\Temperatures.dll
+D:\Documents\GitHub\CodinGames\Temperatures\bin\Debug\netcoreapp2.0\Temperatures.pdb
+D:\Documents\GitHub\CodinGames\Temperatures\obj\Debug\netcoreapp2.0\Temperatures.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\CodinGames\Temperatures\obj\Debug\netcoreapp2.0\Temperatures.AssemblyInfoInputs.cache
+D:\Documents\GitHub\CodinGames\Temperatures\obj\Debug\netcoreapp2.0\Temperatures.AssemblyInfo.cs
+D:\Documents\GitHub\CodinGames\Temperatures\obj\Debug\netcoreapp2.0\Temperatures.dll
+D:\Documents\GitHub\CodinGames\Temperatures\obj\Debug\netcoreapp2.0\Temperatures.pdb
